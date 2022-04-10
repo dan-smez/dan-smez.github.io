@@ -14,16 +14,17 @@ button {
 
 header h3 {
   color: #7BBD00;
-  background-color: #18453B;
-  padding: 10px;
-  margin: 0;
-  font-size: 20px;
 }
 
-header h1 {
+header {
   background-color: #18453B;
   color: #FFFFFF;
   padding: 10px;
   margin: 0;
-  font-size: 40px;
+  font-size: 30px;
 }
+
+resume_header{
+  color: #18453B;
+}
+
