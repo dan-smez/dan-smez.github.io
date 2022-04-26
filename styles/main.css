@@ -1,5 +1,26 @@
 * {
-  font-family: "Helvetica", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  width: 90%;
+  margin: auto;
+}
+
+res-header p {
+  margin: 1px;
+}
+
+.summary p {
+  text-align: justify;
+}
+
+hr {
+  margin-top: 0;
+}
+
+h3, h4 {
+  margin-bottom: 0;
 }
 
 button {
