@@ -5,6 +5,7 @@
 body {
   width: 90%;
   margin: auto;
+  border: 2px #18453B;
 }
 
 res-header p {
